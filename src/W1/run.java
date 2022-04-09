@@ -1,3 +1,7 @@
+package W1;
+
+import W1.elevator;
+
 public class run {
     public static void main(String[] args) {
         elevator mainhall = new elevator();

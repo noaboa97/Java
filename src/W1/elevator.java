@@ -1,3 +1,5 @@
+package W1;
+
 public class elevator {
     private double maxweight;
     private double currentloadweight;
