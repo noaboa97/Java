@@ -1,2 +1,2 @@
 # Java
-Java exercises from PE F
+My Java exercises from school tasks. Week by week. Also sharing the code for my fellow students.
