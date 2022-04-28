@@ -1,21 +1,20 @@
 public class Person {
     public double weight;
-    private String Name;
-    private int Weight;
+    private String name;
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        this.name = name;
     }
 
-    public int getWeight() {
-        return Weight;
+    public double getWeight() {
+        return weight;
     }
 
-    public void setWeight(int Weight) {
-        Weight = Weight;
+    public void setWeight(double weight) {
+        this.weight = weight;
     }
 }

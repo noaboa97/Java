@@ -27,6 +27,7 @@ public class elevator {
     public void add_person(Person person) {
 
         this.currentloadweight += person.getWeight();
+
     }
 
     public void status() {
