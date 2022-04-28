@@ -1,5 +1,3 @@
-package W2;
-
 public class Calculator {
     private int a;
     private int b;

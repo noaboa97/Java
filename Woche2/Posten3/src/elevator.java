@@ -1,4 +1,3 @@
-package W1;
 
 public class elevator {
     private double maxweight;
@@ -25,9 +24,9 @@ public class elevator {
         this.currentfloor = floor;
     }
 
-    public void add_person(double weight) {
+    public void add_person(Person person) {
 
-        this.currentloadweight += weight;
+        this.currentloadweight += person.getWeight();
     }
 
     public void status() {
