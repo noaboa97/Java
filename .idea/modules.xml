@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Woche3/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Woche3/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche4/Fakultaet/Fakultaet.iml" filepath="$PROJECT_DIR$/Woche4/Fakultaet/Fakultaet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten1/Posten1.iml" filepath="$PROJECT_DIR$/Woche2/Posten1/Posten1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten2/Posten2.iml" filepath="$PROJECT_DIR$/Woche2/Posten2/Posten2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten3/Posten3.iml" filepath="$PROJECT_DIR$/Woche2/Posten3/Posten3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming Foundation.iml" filepath="$PROJECT_DIR$/Programming Foundation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche1/Woche1.iml" filepath="$PROJECT_DIR$/Woche1/Woche1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Woche2.iml" filepath="$PROJECT_DIR$/Woche2/Woche2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche3/Woche3.iml" filepath="$PROJECT_DIR$/Woche3/Woche3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche4/Woche4.iml" filepath="$PROJECT_DIR$/Woche4/Woche4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche5/Woche5.iml" filepath="$PROJECT_DIR$/Woche5/Woche5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche4/Zinsrechner/Zinsrechner.iml" filepath="$PROJECT_DIR$/Woche4/Zinsrechner/Zinsrechner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche3/debugging/debugging.iml" filepath="$PROJECT_DIR$/Woche3/debugging/debugging.iml" />
     </modules>
   </component>
 </project>
