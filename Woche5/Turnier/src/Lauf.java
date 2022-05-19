@@ -1,20 +1,16 @@
+import java.util.ArrayList;
+
 public class Lauf {
 
-    private Athlet[] athleten = new Athlet[8];
+    private ArrayList<Athlet> athleten = new ArrayList<Athlet>();
 
 
     public void addAthlet(Athlet a) {
-        for(int i = 0; i < athleten.length; i++) {
-            if(athleten[i] == null) {
-                athleten[i] = a;
-                break;
-            }
-        }
+        athleten.add(a);
     }
 
     public void start() {
-        for (int i = 0; i < athleten.length; i++) {
-            Athlet a = athleten[i];
+        for(Athlet a : athleten){
             if(a != null) {
                 a.run();
             }
@@ -22,9 +18,9 @@ public class Lauf {
     }
 
     public void print() {
-        for (int i = 0; i < athleten.length; i++) {
-            System.out.println("Name: " + athleten[i].getName());
-            System.out.println("Zeit: " + athleten[i].getTime());
+        for (Athlet a : athleten) {
+            System.out.println("Name: " + a.getName());
+            System.out.println("Zeit: " + a.getTime());
         }
     }
 }
