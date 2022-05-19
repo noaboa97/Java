@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Woche3/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Woche3/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche4/Fakultaet/Fakultaet.iml" filepath="$PROJECT_DIR$/Woche4/Fakultaet/Fakultaet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche5/PasswordTest/PasswordTest.iml" filepath="$PROJECT_DIR$/Woche5/PasswordTest/PasswordTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten1/Posten1.iml" filepath="$PROJECT_DIR$/Woche2/Posten1/Posten1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten2/Posten2.iml" filepath="$PROJECT_DIR$/Woche2/Posten2/Posten2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten3/Posten3.iml" filepath="$PROJECT_DIR$/Woche2/Posten3/Posten3.iml" />
