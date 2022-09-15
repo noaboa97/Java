@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Woche9/JavaFX-Login/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche9/JavaFXDemo-TwoViews/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche9/JavaFX-CRM/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche9/TableView/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche9/Students/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche13/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche13/W12-Figuren/pom.xml" />
+        <option value="$PROJECT_DIR$/Woche13/W13-Colors/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

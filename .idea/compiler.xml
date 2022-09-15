@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Woche13" />
+        <module name="W13-Colors" />
+        <module name="Students" />
+        <module name="JavaFX-CRM" />
+        <module name="W12-Figuren" />
+        <module name="JavaFX-Login" />
+        <module name="JavaFXDemo-TwoViews" />
+        <module name="TableView" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaFX-CRM" target="16" />
+      <module name="JavaFX-Login" target="16" />
+      <module name="JavaFXDemo-TwoViews" target="16" />
+      <module name="Students" target="16" />
+      <module name="TableView" target="16" />
+      <module name="W12-Figuren" target="16" />
+      <module name="W13-Colors" target="16" />
+      <module name="Woche13" target="16" />
+      <module name="Woche9" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

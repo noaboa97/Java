@@ -2,24 +2,43 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Woche15/Accounts/Accounts.iml" filepath="$PROJECT_DIR$/Woche15/Accounts/Accounts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche3/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Woche3/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche15/Errorhandling/Errorhandling.iml" filepath="$PROJECT_DIR$/Woche15/Errorhandling/Errorhandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche4/Fakultaet/Fakultaet.iml" filepath="$PROJECT_DIR$/Woche4/Fakultaet/Fakultaet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche6/Gruppenpuzzle/Gruppenpuzzle.iml" filepath="$PROJECT_DIR$/Woche6/Gruppenpuzzle/Gruppenpuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche9/JavaFX-CRM/JavaFX-CRM.iml" filepath="$PROJECT_DIR$/Woche9/JavaFX-CRM/JavaFX-CRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche9/JavaFX-Login/JavaFX-Login.iml" filepath="$PROJECT_DIR$/Woche9/JavaFX-Login/JavaFX-Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche9/JavaFXDemo-TwoViews/JavaFXDemo-TwoViews.iml" filepath="$PROJECT_DIR$/Woche9/JavaFXDemo-TwoViews/JavaFXDemo-TwoViews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche7/Kreis_Polymorphie/Kreis_Polymorphie.iml" filepath="$PROJECT_DIR$/Woche7/Kreis_Polymorphie/Kreis_Polymorphie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche5/PasswordTest/PasswordTest.iml" filepath="$PROJECT_DIR$/Woche5/PasswordTest/PasswordTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten1/Posten1.iml" filepath="$PROJECT_DIR$/Woche2/Posten1/Posten1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten2/Posten2.iml" filepath="$PROJECT_DIR$/Woche2/Posten2/Posten2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Posten3/Posten3.iml" filepath="$PROJECT_DIR$/Woche2/Posten3/Posten3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming Foundation.iml" filepath="$PROJECT_DIR$/Programming Foundation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche6/Raumverwaltung/Raumverwaltung.iml" filepath="$PROJECT_DIR$/Woche6/Raumverwaltung/Raumverwaltung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche7/Raumverwaltung_with_super/Raumverwaltung_with_super.iml" filepath="$PROJECT_DIR$/Woche7/Raumverwaltung_with_super/Raumverwaltung_with_super.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche5/Sprint/Sprint.iml" filepath="$PROJECT_DIR$/Woche5/Sprint/Sprint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche8/Studenten/Studenten.iml" filepath="$PROJECT_DIR$/Woche8/Studenten/Studenten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche9/Students/Students.iml" filepath="$PROJECT_DIR$/Woche9/Students/Students.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche9/TableView/TableView.iml" filepath="$PROJECT_DIR$/Woche9/TableView/TableView.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche5/Turnier/Turnier.iml" filepath="$PROJECT_DIR$/Woche5/Turnier/Turnier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche13/W12-Figuren/W12-Figuren.iml" filepath="$PROJECT_DIR$/Woche13/W12-Figuren/W12-Figuren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche13/W13-Colors/W13-Colors.iml" filepath="$PROJECT_DIR$/Woche13/W13-Colors/W13-Colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche1/Woche1.iml" filepath="$PROJECT_DIR$/Woche1/Woche1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche13/Woche13.iml" filepath="$PROJECT_DIR$/Woche13/Woche13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche15/Woche15.iml" filepath="$PROJECT_DIR$/Woche15/Woche15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche2/Woche2.iml" filepath="$PROJECT_DIR$/Woche2/Woche2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche3/Woche3.iml" filepath="$PROJECT_DIR$/Woche3/Woche3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche4/Woche4.iml" filepath="$PROJECT_DIR$/Woche4/Woche4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche5/Woche5.iml" filepath="$PROJECT_DIR$/Woche5/Woche5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche6/Woche6.iml" filepath="$PROJECT_DIR$/Woche6/Woche6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche7/Woche7.iml" filepath="$PROJECT_DIR$/Woche7/Woche7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche8/Woche8.iml" filepath="$PROJECT_DIR$/Woche8/Woche8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche9/Woche9.iml" filepath="$PROJECT_DIR$/Woche9/Woche9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche4/Zinsrechner/Zinsrechner.iml" filepath="$PROJECT_DIR$/Woche4/Zinsrechner/Zinsrechner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Woche3/debugging/debugging.iml" filepath="$PROJECT_DIR$/Woche3/debugging/debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche8/geometrischeFiguren/geometrischeFiguren.iml" filepath="$PROJECT_DIR$/Woche8/geometrischeFiguren/geometrischeFiguren.iml" />
     </modules>
   </component>
 </project>

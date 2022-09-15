@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.FlowPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="125.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.javafxdemotwoviews.ResultatController">
+   <bottom>
+      <Button alignment="BOTTOM_LEFT" mnemonicParsing="false" onAction="#prev" text="&lt;- Prev" BorderPane.alignment="BOTTOM_LEFT" />
+   </bottom>
+   <center>
+      <AnchorPane prefHeight="84.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="lblZahl1" layoutX="7.0" layoutY="46.0" prefHeight="21.0" prefWidth="118.0" text="Zahl1" />
+            <Label layoutX="133.0" layoutY="46.0" text="+" />
+            <Label fx:id="lblZahl2" layoutX="153.0" layoutY="46.0" prefHeight="21.0" prefWidth="94.0" text="Zahl2" />
+            <Label layoutX="247.0" layoutY="46.0" text="=" />
+            <Label fx:id="lblResultat" layoutX="276.0" layoutY="46.0" prefHeight="21.0" prefWidth="318.0" text="Resultat" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

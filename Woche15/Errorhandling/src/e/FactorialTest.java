@@ -1,0 +1,1 @@
+package e;public class FactorialTest {	public static void main(String[] args) {		Factorial f = new Factorial();		int fakultaet = f.factorial(10);		System.out.println("Fakult�t von 10: " + fakultaet);	}}
